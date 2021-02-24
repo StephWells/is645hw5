@@ -1,0 +1,11 @@
+4. 
+https://github.com/StephWells/is645hw5.git
+https://affectionate-dijkstra-0a7faa.netlify.app
+
+5. 
+
+a. Array output: [4,8,12,16,20]
+
+b. Array 0utput:[2,4,6,8,10,12,14,16,18,20]
+
+c. No outputs are not the same. For a, we filtered first to find the even numbers (divisible by 2), then we used map to multiply those even numbers by (x * 2). For b, we used map first to multiply all the numbers in the array by 2 (x * 2), then we filtered those results to find all the even numbers.
